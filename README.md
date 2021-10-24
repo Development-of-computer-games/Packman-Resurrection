@@ -1,6 +1,5 @@
-#  ** Packman-Resurrection **
-## Packman - The resurrection of the dead, prepare for the next generation of mutli level pc game.
-
+#  **Packman-Resurrection**
+Packman - The resurrection of the dead, prepare for the next generation of mutli level pc game.
 ## The essence of the game:
 The purpose of this newer version of packman is to add new features in order to revive the game and retain all players.
 We will do it by adding :
@@ -14,9 +13,7 @@ We will do it by adding :
  
 The platform of the game is - pc, locally.
 
-
 image needed here![picture1](https://user-images.githubusercontent.com/57447482/138595462-6b5cdfbd-6147-491f-b809-0039967a5245.png)
-
 
 ## Official components:
 - Players : 
