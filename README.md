@@ -39,10 +39,9 @@ The player will see:
   - How can they gain abilities to face obstacles
 The game will be atractive and simple, and will give the player the feeling like they know what to do in order to complete the level.
 As the levels gets harder, the user will feel the challenge raising and the will to continue playing.
-
-### At the core of the game the player will need to face monsters, find the best path in order to avoid them and gain the points in order to complete the level.
-### In order to finish the level, the player will need to recieve the goal points, once they do that, they will continue to the next level which will be more challenging.
-### In order to move in the game, the player will use to arrow keys, possibly the space too (when they recieve special abilities)
+At the core of the game the player will need to face monsters, find the best path in order to avoid them and gain the points in order to complete the level.
+In order to finish the level, the player will need to recieve the goal points, once they do that, they will continue to the next level which will be more challenging.
+In order to move in the game, the player will use to arrow keys, possibly the space too (when they recieve special abilities)
 - Arrow up - walking up , climbing up 
 - Arrow down - walking down, climbing down
 - Arrow left - walking left 
@@ -52,3 +51,17 @@ As the levels gets harder, the user will feel the challenge raising and the will
 ## Rules:
 The rules are simple, avoid monsters and collect points.
 The rules will be well explained in the rules lable in the main screen which will explain all the various options of the game, game-flow, buttons and abilities.
+- Walking inside the boundries of the game
+- Passing obstacle
+- Use abilities that we own
+- All rules will be determines and explained before each level
+
+## Recourses:
+-Special abilities, points , bad-path which will fine the player
+- The recources will be spread on the area of the game
+- The recourses will give the user special abilities in order to pass the level \ will give them extra points
+- The map will be designed from easy to expert. The resources will be spread by level of expert and will give the user the feeling of a challenge.
+- All the recourse will appear on the screem, sometimes they will dissapear (the user will recieve a msg in advanced), furthermore the player will see the list of recourses that at their disposal.
+
+## Conflicts:
+-
