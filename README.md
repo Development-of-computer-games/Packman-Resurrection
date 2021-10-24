@@ -13,7 +13,8 @@ We will do it by adding :
  
 The platform of the game is - pc, locally.
 
-![image](https://user-images.githubusercontent.com/57447482/138595553-c0262c43-e016-4465-90a3-0af1a3213ea0.png)
+![image](https://user-images.githubusercontent.com/57447482/138597527-634f3e98-4008-4f14-966d-b28eb45f8688.png)
+
 
 ## Official components:
 - Players : 
