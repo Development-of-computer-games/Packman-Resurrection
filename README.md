@@ -57,11 +57,28 @@ The rules will be well explained in the rules lable in the main screen which wil
 - All rules will be determines and explained before each level
 
 ## Recourses:
--Special abilities, points , bad-path which will fine the player
+- Special abilities, points , bad-path which will fine the player
 - The recources will be spread on the area of the game
 - The recourses will give the user special abilities in order to pass the level \ will give them extra points
 - The map will be designed from easy to expert. The resources will be spread by level of expert and will give the user the feeling of a challenge.
 - All the recourse will appear on the screem, sometimes they will dissapear (the user will recieve a msg in advanced), furthermore the player will see the list of recourses that at their disposal.
 
 ## Conflicts:
--
+- The player will need to pick the best path in order to recieve points and abilities
+- The player will need to avoid monsters
+- The player can travel only where there is a path
+- The path in the game will be hard to manuver and will be desiged from level of easy to expert in order to create challenging game
+- The player can choose multiplayer mode, which they will fight against each other
+- The player can choose multiplayer mode and fight together against the computer
+- The player will need to face dillemas as where to walk, which path is the best, which ability will give the most power, which points are more rewarding
+
+## Boundries:
+The world will be mostly closed, there will be several spots where the player can transport from a certain spot to another and add another aspect of creativity.
+The map will be flat.
+The boundries will be explained at the beggining of the level, and the spots of teleportation will be marked.
+The map will be designed in a way that the path a player picks has a meaning and diffrent outcomes.
+The player can travel around and get from a certain spot to another, note that if the player get stacj in a corner, and the monsters are circling him\her, they are exposed to losing, therefore there is an importance of the choices they make.
+
+## Outcomes:
+- There is only one outcome - win \ lose
+- Both luck and skill take place, the skill is to understand which path to take, the luck take place at how many monsters will come at ur way, how many abilities one will recieve to their disposal
