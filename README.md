@@ -85,3 +85,5 @@ The player can travel around and get from a certain spot to another, note that i
 - In the multiplayer mode - the players can choose either to gain forces against the computer or to be against eachother in a win\lose game.
 
 ## Market survey:
+We believe that this version was already invented, we came across few games that tried to do what we offered, and some did exactly.
+We believe we can make a newer version with additional upgrades that will take this game to the next level!
