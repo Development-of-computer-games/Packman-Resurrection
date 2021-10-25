@@ -15,8 +15,6 @@ The platform of the game is - pc, locally.
 
 ![image](https://user-images.githubusercontent.com/57447482/138597527-634f3e98-4008-4f14-966d-b28eb45f8688.png)
 
-
-## Official components:
 - Players : 
   - Age 8-99.
   - Basic skills.
