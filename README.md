@@ -85,3 +85,5 @@ The player can travel around and get from a certain spot to another, note that i
 - Both luck and skill take place, the skill is to understand which path to take, the luck take place at how many monsters will come at ur way, how many abilities one will recieve to their disposal.
 - In the singleplayer mode - if you get killed \ not recieving the points needed for thee level - you lose.
 - In the multiplayer mode - the players can choose either to gain forces against the computer or to be against eachother in a win\lose game.
+
+## Market survey:
