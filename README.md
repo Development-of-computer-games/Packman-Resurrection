@@ -6,4 +6,6 @@ Prepare your friends, get on hands and come to beat this game!
 
 ![image](https://user-images.githubusercontent.com/57447482/138597527-634f3e98-4008-4f14-966d-b28eb45f8688.png)
 
-Get further details in : [formal-elements](https://github.com/Development-of-computer-games/Packman-Resurrection/wiki) [Link to the game here](https://sivannamma.itch.io/packman)
+Get further details in : [formal-elements](https://github.com/Development-of-computer-games/Packman-Resurrection/wiki) 
+### The game on itch : [Link to the game here](https://sivannamma.itch.io/packman)
+### Exmplaination of the core here [Link](https://github.com/Development-of-computer-games/Packman-Resurrection/wiki/Mini-game)
